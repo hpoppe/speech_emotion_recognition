@@ -1,6 +1,6 @@
 # Speech Emotion Recognition (SER) - Bachelor's Thesis (SoSe 2023)
 
-This repository contains the code and experimental setup for my Bachelor's Thesis on Speech Emotion Recognition. It implements various deep learning approaches and neural network architectures across different datasets.
+This repository contains the code and experimental setup for my Bachelor's Thesis on Speech Emotion Recognition. It compares various neural network architectures across different datasets to evaluate their performance and robustness.
 
 ## Project Structure
 
