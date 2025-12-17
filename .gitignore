@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.h5
+.history/
+.venv/
+*.pt
+*.onnx
+Training/
+confusion_matrix.png
+.DS_Store
